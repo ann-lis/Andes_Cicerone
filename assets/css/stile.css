@@ -1,0 +1,50 @@
+.navbar a:link{
+ color : #000000;
+ text-decoration: none;
+}
+
+.navbar a:hover {
+ color : #000000;
+ text-decoration: none;
+}
+
+body a:hover{
+ color : #0000ff;
+ text-decoration : none;
+}
+
+body a:link {
+ color: #000000;
+ text-decoration : none;
+}
+
+div#center{
+float:left;
+margin-left: 175px;
+}
+
+.help-block{
+color:#8B0000;
+font-size:12pt;
+}
+
+.btn{
+font-size:12pt;
+font-weight:bold;
+font-family:lucida fax, sans-serif;
+}
+
+.back{
+color:#0000ff;
+text-decoration:underline;
+font-family:lucida fax,sans-serif;
+}
+
+.title{
+color:#0000ff;
+font-size:18pt;
+font-family:lucida fax, sans-serif;
+font-weight:bold;
+text-align:center;
+}
+
